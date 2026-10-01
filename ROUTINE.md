@@ -9,9 +9,11 @@ Metricool, and report what failed with the exact error.
 
 ## 1. Target date
 
+If the prompt that started you gives `TARGET_DATE=YYYY-MM-DD`, run `export TARGET_DATE=<that date>` first.
+
 ```bash
 export TZ=Europe/Warsaw
-DATE=$(date -d tomorrow +%F)
+DATE=${TARGET_DATE:-$(date -d tomorrow +%F)}
 DOW=$(date -d "$DATE" +%u)            # 1 = Monday … 7 = Sunday
 if [ "$DOW" -ge 6 ]; then DATE=$(date -d "$DATE +$((8 - DOW)) days" +%F); DOW=1; fi
 OFFSET=$(date -d "$DATE 08:00" +%:z)  # +02:00 in summer, +01:00 in winter

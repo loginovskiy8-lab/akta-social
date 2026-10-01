@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-05",
+  "rubric": "Mon — Problem w kancelarii",
+  "pillar": "A",
+  "topic": "colleague-on-leave-handover",
+  "caption": "Ktoś z zespołu jest na urlopie, a klient dzwoni zapytać, co z jego sprawą. Odpowiedź nie powinna zależeć od tego, czy uda się do kogoś dodzwonić.\n\nGdy status jest w Excelu, dokumenty na dysku, a ustalenia w czyjejś skrzynce, zastępstwo zaczyna się od szukania.\n\nW Akta CRM każda sprawa ma swój etap i listę kroków. Korespondencja z Gmaila jest przypięta do sprawy lub klienta. Historia zmian pokazuje, kto co zmienił i kiedy.\n\nOsoba na zastępstwie otwiera akta i widzi, na jakim etapie jest sprawa i co zostało do zrobienia.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "The status quo it replaces: case status in Excel, documents on a shared drive, arrangements in an inbox.",
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place.",
+    "Case stages that follow the real course of a proceeding; each stage has its own checklist of steps.",
+    "Gmail integration: the mailbox is synchronised into the CRM; messages are bound to a case or a client and can be read and answered without leaving the system.",
+    "Change log on records: who changed what and when."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "teal",
+      "title": "Koleżanka na urlopie.\nKlient pyta o *swoją sprawę*.",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Wiedza o\u00a0sprawie siedzi w\u00a0jednej skrzynce i\u00a0jednej głowie.",
+      "sub": "Status w Excelu, dokumenty na dysku, ustalenia w mailach koleżanki."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "W Akta CRM sprawa ma jedne akta dla całego zespołu.",
+      "sub": "Etap, lista kroków, dokumenty i korespondencja z\u00a0Gmaila w jednym miejscu."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Widać też, kto i\u00a0*kiedy* coś zmienił.",
+      "sub": "Zastępstwo zaczyna się od akt, nie od telefonu do osoby na urlopie."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

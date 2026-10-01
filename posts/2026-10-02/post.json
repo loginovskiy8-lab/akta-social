@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-02",
+  "rubric": "Fri — Pracodawca i kancelaria",
+  "pillar": "C",
+  "topic": "missing-files-through-client-portal",
+  "caption": "Kancelaria prosi o brakujący plik, a Ty szukasz, w którym mailu był załącznik.\n\nGdy dokumenty krążą w wątkach mailowych, łatwo wysłać starszą wersję albo nie wiedzieć, co już dotarło.\n\nJeśli kancelaria pracuje w Akta CRM, klient może korzystać z portalu klienta. Loguje się osobno, widzi tylko swoją sprawę i tam przesyła brakujące pliki.\n\nWewnętrzne notatki zespołu kancelarii nie są w portalu widoczne.\n\nKancelaria widzi w sprawie, czego jeszcze brakuje.\n\nPrezentację umówisz na aktacrm.com.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#zatrudnianiecudzoziemców #legalizacjazatrudnienia #hr #aktacrm",
+  "claims": [
+    "Client portal: the client logs in separately, sees only their own case and never internal notes, and can send missing files.",
+    "Document catalogue and a document requirement checklist per case type; the case shows what is missing."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "mint",
+      "eyebrow": "Dla pracodawców",
+      "title": "Kancelaria pisze, że *czegoś brakuje*.\nGdzie to wysłać?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "mint",
+      "eyebrow": "Jak bywa dziś",
+      "title": "Pliki krążą w mailach",
+      "items": [
+        "Załącznik w trzecim wątku",
+        "Starsza wersja skanu",
+        "Nie wiadomo, co już dotarło"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "mint",
+      "title": "Portal klienta: jedno miejsce na brakujące pliki.",
+      "sub": "Klient loguje się osobno, widzi tylko swoją sprawę i tam przesyła braki."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Notatki zespołu kancelarii zostają *wewnętrzne*.",
+      "sub": "A kancelaria widzi w sprawie, czego jeszcze brakuje."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Pokaż to\nswojej kancelarii.",
+      "sub": "Prezentację umówisz na aktacrm.com."
+    }
+  ]
+}

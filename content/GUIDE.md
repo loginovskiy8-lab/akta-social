@@ -26,6 +26,10 @@ One carousel per weekday, published at 08:00 Europe/Warsaw. The weekday decides 
 Vary the angle within a rubric week to week. Never reuse a cover title or a `topic` that
 appears in `posts/` in the last 60 days.
 
+A weekly report, `analytics/PERFORMANCE.md` (see `ANALYTICS.md`), may recommend angles and
+formats and, when the numbers are clear, swap one weekday's rubric for a stronger one until the
+next report. It never overrides the hard bans or `FACTS.md`.
+
 ## Hard bans
 
 Do not publish, ever:

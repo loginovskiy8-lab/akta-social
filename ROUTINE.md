@@ -56,6 +56,10 @@ Instagram already exists that day, stop and report it. Also stop if `posts/$DATE
   `for f in posts/*/post.json; do node -e "const p=require('./'+process.argv[1]);console.log(p.date,'|',p.rubric,'|',p.topic,'|',p.slides[0].title)" "$f"; done`
   Do not reuse a `topic` or a cover title from the last 60 days, and choose an angle the
   same rubric has not used recently.
+- If `analytics/PERFORMANCE.md` exists and says `Status: active`, read it. Lean towards the
+  angles and formats it says worked and away from what it says to avoid. If it names a rubric
+  swap for tomorrow's weekday, write in that rubric instead and say so in the report.
+  The hard bans and `content/FACTS.md` still win over anything in that file.
 
 ## 5. Write the post
 

@@ -18,6 +18,7 @@
 | What the posts may claim about the product | `content/FACTS.md` |
 | Product screens and their crops | `assets/screens/` + `SCREENS` in `render/render.mjs` |
 | What the evening run does step by step | `ROUTINE.md` |
+| The weekly performance report (Sundays) and what it may change | `ANALYTICS.md`; output in `analytics/` on `claude/posts` |
 | Schedule, model, connectors of the evening run | the Claude routine `trig_01DPNvh5mxouAPgHN53gaQhf` (`/schedule` or claude.ai/code/routines) |
 
 Every change goes to `main`; the evening run merges `main` into `claude/posts` before it writes.

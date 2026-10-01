@@ -1,0 +1,12 @@
+{
+  "name": "akta-social",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render/render.mjs"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.5",
+    "puppeteer": "^25.12.0"
+  }
+}

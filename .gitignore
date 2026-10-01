@@ -1,0 +1,4 @@
+node_modules/
+*.tmp.html
+# local render checks, never published
+posts/_*/

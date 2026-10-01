@@ -16,11 +16,13 @@ export TZ=Europe/Warsaw
 DATE=${TARGET_DATE:-$(date -d tomorrow +%F)}
 DOW=$(date -d "$DATE" +%u)            # 1 = Monday … 7 = Sunday
 if [ "$DOW" -ge 6 ]; then DATE=$(date -d "$DATE +$((8 - DOW)) days" +%F); DOW=1; fi
-OFFSET=$(date -d "$DATE 08:00" +%:z)  # +02:00 in summer, +01:00 in winter
+# +02:00 in summer, +01:00 in winter; Node's ICU knows the zone even if the OS lacks tzdata
+OFFSET=$(node -e 'const s=new Date(process.argv[1]+"T08:00:00Z").toLocaleString("en-US",{timeZone:"Europe/Warsaw",timeZoneName:"longOffset"});const m=s.match(/GMT([+-]\d\d:\d\d)/);console.log(m?m[1]:"")' "$DATE")
 echo "$DATE $DOW $OFFSET"
 ```
 
-The weekday `DOW` picks the rubric in `content/GUIDE.md`.
+`OFFSET` must be `+01:00` or `+02:00`; anything else is a failure. The weekday `DOW` picks
+the rubric in `content/GUIDE.md`.
 
 ## 2. Branch
 

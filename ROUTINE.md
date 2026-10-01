@@ -9,16 +9,20 @@ Metricool, and report what failed with the exact error.
 
 ## 1. Target date
 
+If the prompt that started you gives `TARGET_DATE=YYYY-MM-DD`, run `export TARGET_DATE=<that date>` first.
+
 ```bash
 export TZ=Europe/Warsaw
-DATE=$(date -d tomorrow +%F)
+DATE=${TARGET_DATE:-$(date -d tomorrow +%F)}
 DOW=$(date -d "$DATE" +%u)            # 1 = Monday … 7 = Sunday
 if [ "$DOW" -ge 6 ]; then DATE=$(date -d "$DATE +$((8 - DOW)) days" +%F); DOW=1; fi
-OFFSET=$(date -d "$DATE 08:00" +%:z)  # +02:00 in summer, +01:00 in winter
+# +02:00 in summer, +01:00 in winter; Node's ICU knows the zone even if the OS lacks tzdata
+OFFSET=$(node -e 'const s=new Date(process.argv[1]+"T08:00:00Z").toLocaleString("en-US",{timeZone:"Europe/Warsaw",timeZoneName:"longOffset"});const m=s.match(/GMT([+-]\d\d:\d\d)/);console.log(m?m[1]:"")' "$DATE")
 echo "$DATE $DOW $OFFSET"
 ```
 
-The weekday `DOW` picks the rubric in `content/GUIDE.md`.
+`OFFSET` must be `+01:00` or `+02:00`; anything else is a failure. The weekday `DOW` picks
+the rubric in `content/GUIDE.md`.
 
 ## 2. Branch
 
@@ -83,6 +87,9 @@ git push origin claude/posts
 SHA=$(git rev-parse HEAD)
 ```
 
+Use exactly that one-line commit message. Add no `Co-Authored-By`, `Claude-Session` or any
+other trailer: the owner's rule is that nothing in git carries tool attribution.
+
 Then check every slide is reachable (retry for up to a minute):
 
 ```bash
@@ -122,6 +129,11 @@ Call `createScheduledPost` with `blogId` `"7169414"`, `date` `"${DATE}T08:00:00$
 Finish with a short summary **in Russian** for the owner: the date and weekday, the rubric,
 the cover title, the `plannerUrl` from Metricool, and the commit SHA. If you stopped early,
 say at which step and why.
+
+Then send the owner a push notification (the `PushNotification` tool), in Russian, one or two
+lines: on success «Черновик на <weekday, date> готов: «<cover title>». Открой в Metricool и
+запланируй.» with the `plannerUrl`; on failure, the step that failed and the error in a few words.
+If step 3 stopped the run because the day already has a post, send nothing.
 
 ## Never
 

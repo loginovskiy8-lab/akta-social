@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-02",
+  "rubric": "Fri — Pracodawca i kancelaria",
+  "pillar": "C",
+  "topic": "what-employer-prepares-before-the-firm",
+  "caption": "Zatrudniasz cudzoziemców przez kancelarię? Sprawa idzie sprawniej, gdy firma ma kilka rzeczy gotowych od pierwszej rozmowy.\n\nTrzy rzeczy, które warto mieć pod ręką:\n— jedną osobę do kontaktu z kancelarią,\n— listę pracowników i ich stanowisk,\n— daty ważności dokumentów pracowników.\n\nDanych firmy nie trzeba przepisywać: kancelaria pracująca w Akta CRM pobiera je po NIP z Białej listy VAT, KRS i CEIDG.\n\nPrezentację umówisz na aktacrm.com.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#zatrudnianiecudzoziemców #legalizacjazatrudnienia #hr #aktacrm",
+  "claims": [
+    "Employer register: company data pulled by NIP from the `Biała lista VAT`, KRS and CEIDG, with a preview before saving.",
+    "Document catalogue and a document requirement checklist per case type; the case shows what is missing."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "mint",
+      "eyebrow": "Dla pracodawców",
+      "title": "Zatrudniasz cudzoziemców przez kancelarię?\nPrzygotuj *trzy rzeczy* wcześniej.",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "mint",
+      "eyebrow": "Zanim zadzwonisz",
+      "title": "Co warto mieć pod ręką",
+      "items": [
+        "Jedna osoba do kontaktu z kancelarią",
+        "Lista pracowników i stanowisk",
+        "Daty ważności dokumentów pracowników"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "mint",
+      "title": "Danych firmy nie musisz przepisywać.",
+      "sub": "Kancelaria w Akta CRM pobiera je po NIP z Białej listy VAT, KRS i CEIDG."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Jedna sprawa,\njeden plik.",
+      "sub": "Kancelaria widzi braki, zanim zobaczy je urzędnik."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Pokaż to\nswojej kancelarii.",
+      "sub": "Prezentację umówisz na aktacrm.com."
+    }
+  ]
+}

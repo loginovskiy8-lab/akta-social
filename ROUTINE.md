@@ -28,7 +28,11 @@ the rubric in `content/GUIDE.md`.
 
 Posts live on the branch `claude/posts`; `main` holds the templates and rules.
 
+Commits in this repository are made under the owner's name, as in his other repositories:
+
 ```bash
+git config user.name "Yaraslau Lahinouski"
+git config user.email "loginovskiy8@gmail.com"
 git fetch origin
 if git ls-remote --exit-code --heads origin claude/posts >/dev/null; then
   git checkout -B claude/posts origin/claude/posts

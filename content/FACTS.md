@@ -33,7 +33,9 @@ drop the idea. When the product changes, this file is updated by hand.
 
 - Client register with search.
 - Client portal: the client logs in separately, sees only their own case and never internal notes,
-  and can send missing files.
+  and can send missing files. "Client" here is the foreigner whose case it is: the firm turns the
+  portal on per client record. **Employers have no portal access** — never tell an employer or HR
+  reader that they can log in or upload through the portal; at most, their employee can.
 - Employer register: company data pulled by NIP from the `Biała lista VAT`, KRS and CEIDG, with a preview before saving.
 - Gmail integration: the mailbox is synchronised into the CRM; messages are bound to a case or a client
   and can be read and answered without leaving the system.

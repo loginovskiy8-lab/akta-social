@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-06",
+  "rubric": "Tue — Funkcja w praktyce",
+  "pillar": "A",
+  "topic": "missing-documents-across-cases",
+  "caption": "Brak jednego dokumentu w jednej sprawie łatwo zauważyć. Gdy spraw jest wiele, braki giną między folderami a skrzynką.\n\nW Akta CRM kancelaria ma katalog dokumentów i checklistę dokumentów dla każdego typu sprawy. Sprawa pokazuje, czego jeszcze brakuje.\n\nDashboard zbiera to w jednym miejscu: widać sprawy, które czekają na dokumenty.\n\nZamiast przeglądać foldery, otwierasz sprawę i widzisz listę braków.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Document catalogue and a document requirement checklist per case type; the case shows what is missing.",
+    "Dashboard: active cases, cases waiting for documents, deadlines in the next 14 days, active and overdue `wezwania`."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "teal",
+      "title": "Których dokumentów *brakuje*\nw Twoich sprawach?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "screen",
+      "theme": "paper",
+      "eyebrow": "W Akta CRM",
+      "title": "Status dokumentów z checklist wszystkich spraw.",
+      "image": "assets/screens/dashboard-analityka.png#dokumenty"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Jak to działa",
+      "title": "Każdy typ sprawy ma swoją listę dokumentów.",
+      "items": ["Katalog dokumentów kancelarii", "Checklista dla typu sprawy", "Sprawa pokazuje, czego brakuje", "Dashboard: sprawy czekające na dokumenty"]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "Nie przeglądasz folderów, żeby wiedzieć, *na\u00a0co*\u00a0czekasz.",
+      "sub": "Braki widać w sprawie i na dashboardzie, a nie w czyjejś pamięci."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

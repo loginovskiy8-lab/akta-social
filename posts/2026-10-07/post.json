@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-07",
+  "rubric": "Wed — Porządek w aktach",
+  "pillar": "B",
+  "topic": "wezwanie-intake-who-owns-it",
+  "caption": "Wezwanie przyszło do kancelarii. Najgorzej, gdy zostaje w czyjejś skrzynce.\n\nZanim ktokolwiek zacznie zbierać dokumenty, trzeba ustalić cztery rzeczy: do której sprawy należy, kto je prowadzi, jaki jest termin i czego dotyczy.\n\nW Akta CRM wiadomość z Gmaila przypinasz do sprawy lub klienta. Termin wezwania trafia do kalendarza kancelarii, a zadanie do konkretnej osoby.\n\nKażdy widzi swoje wezwania w widoku „Moja praca”. Dashboard pokazuje aktywne i przeterminowane wezwania całego zespołu.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Gmail integration: the mailbox is synchronised into the CRM; messages are bound to a case or a client and can be read and answered without leaving the system.",
+    "Calendar for office deadlines, `wezwania` and office visits.",
+    "Tasks and kanban boards; \"Moja praca\" shows a person's own cases, tasks and `wezwania`.",
+    "Dashboard: active cases, cases waiting for documents, deadlines in the next 14 days, active and overdue `wezwania`."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "title": "Przyszło *wezwanie*.\nKto się nim zajmuje?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Porządek w aktach",
+      "title": "Zanim zaczniesz zbierać dokumenty, ustal cztery rzeczy.",
+      "items": ["Do której sprawy należy", "Kto je prowadzi", "Jaki jest termin", "Czego dotyczy"]
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "W Akta CRM",
+      "title": "Wezwanie nie zostaje w niczyjej skrzynce.",
+      "items": ["Mail przypięty do sprawy", "Termin w kalendarzu kancelarii", "Zadanie dla konkretnej osoby", "Widoczne w „Moja praca”"]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "Nikt nie musi pamiętać, *które* wezwania są otwarte.",
+      "sub": "Dashboard pokazuje aktywne i przeterminowane wezwania całego zespołu."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

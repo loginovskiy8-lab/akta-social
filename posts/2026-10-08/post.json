@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-08",
+  "rubric": "Thu — Mit czy fakt?",
+  "pillar": "D",
+  "topic": "ai-assistant-and-client-data",
+  "caption": "Asystent AI w CRM kancelarii? Pierwsze pytanie brzmi zwykle: co dzieje się z danymi klientów.\n\nW Akta CRM asystent jest domyślnie wyłączony. Włącza go właściciel lub administrator, dla całej kancelarii naraz.\n\nZanim cokolwiek trafi do modelu, usuwane są PESEL, numery dokumentów, adresy, notatki tekstowe oraz dane o zdrowiu i karalności.\n\nPrzetwarzanie odbywa się w UE, a model nie przechowuje ani rozmów, ani podsumowań.\n\nAsystent odpowiada na pytania o sprawy, klientów i statystyki oraz tworzy podsumowania na kartach sprawy, klienta i pracodawcy.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "AI assistant answering questions about cases, clients and statistics, plus AI summaries on case, client and employer cards.",
+    "Off by default; the owner or an admin turns it on for the whole firm.",
+    "PESEL, document numbers, addresses, free-text notes and health or criminal-record data are stripped before anything reaches the model. Processing in the EU; the model keeps neither conversations nor summaries."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "eyebrow": "Mit czy fakt?",
+      "title": "Asystent AI\nwysyła *dane klientów*\ndo modelu?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Mit",
+      "title": "Włączasz CRM,\na asystent AI od razu\nczyta wszystkie sprawy.",
+      "sub": "W Akta CRM jest domyślnie wyłączony.\nWłącza go właściciel lub administrator."
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Fakt",
+      "title": "PESEL, numery dokumentów i adresy *nie trafiają* do modelu.",
+      "sub": "Usuwane są też notatki tekstowe oraz dane o zdrowiu i karalności."
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Fakt",
+      "title": "Przetwarzanie w UE.\nModel nie przechowuje rozmów ani podsumowań.",
+      "sub": "Asystent odpowiada na pytania o sprawy, klientów i statystyki."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

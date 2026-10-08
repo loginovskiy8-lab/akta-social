@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-09",
+  "rubric": "Fri — Pracodawca i kancelaria",
+  "pillar": "C",
+  "topic": "employer-mail-bound-to-the-case",
+  "caption": "Mail do kancelarii o pracowniku nie powinien zależeć od tego, kto akurat ma otwartą skrzynkę.\n\nPo stronie firmy pomaga prosty porządek: jedna osoba kontaktowa, jeden wątek na jedną sprawę, imię i nazwisko pracownika w temacie.\n\nPo stronie kancelarii pomaga system. W Akta CRM skrzynka Gmail jest zsynchronizowana z CRM, a wiadomość zostaje przypisana do sprawy albo klienta.\n\nZespół kancelarii czyta ją i odpowiada bez wychodzenia z systemu, obok akt tej sprawy.\n\nPrezentację umówisz na aktacrm.com.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#zatrudnianiecudzoziemców #legalizacjazatrudnienia #hr #kancelariaimigracyjna #aktacrm",
+  "claims": [
+    "Gmail integration: the mailbox is synchronised into the CRM; messages are bound to a case or a client and can be read and answered without leaving the system.",
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "mint",
+      "eyebrow": "Dla pracodawców",
+      "title": "Mail do kancelarii o pracowniku.\nW czyjej skrzynce *zostaje*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "mint",
+      "eyebrow": "Po stronie firmy",
+      "title": "Jak pisać, żeby nic nie zginęło",
+      "items": [
+        "Jedna osoba kontaktowa",
+        "Jeden wątek na jedną sprawę",
+        "Imię i nazwisko pracownika w temacie"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "mint",
+      "title": "W Akta CRM mail trafia *do sprawy*,\nnie tylko do skrzynki.",
+      "sub": "Skrzynka Gmail jest zsynchronizowana z CRM.\nWiadomość zostaje przypisana do sprawy albo klienta."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Korespondencja, dokumenty i terminy\nw jednym miejscu.",
+      "sub": "Zespół kancelarii odpowiada na maila bez wychodzenia z systemu."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Pokaż to\nswojej kancelarii.",
+      "sub": "Prezentację umówisz na aktacrm.com."
+    }
+  ]
+}

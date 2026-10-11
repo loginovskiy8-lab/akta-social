@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-12",
+  "rubric": "Mon — Problem w kancelarii",
+  "pillar": "A",
+  "topic": "monday-deadline-review",
+  "caption": "Poniedziałek rano zaczyna się od pytania, co w tym tygodniu ma termin. Odpowiedź nie powinna wymagać przeglądania trzech miejsc.\n\nGdy terminy są w kalendarzu jednej osoby, wezwania w skrzynce drugiej, a statusy w Excelu, przegląd tygodnia to składanie listy z kawałków.\n\nW Akta CRM dashboard pokazuje aktywne sprawy, sprawy czekające na dokumenty, terminy z najbliższych 14 dni oraz aktywne i zaległe wezwania.\n\nKażdy w zespole otwiera „Moja praca” i widzi swoje sprawy, zadania i wezwania.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "The status quo it replaces: case status in Excel, documents on a shared drive, arrangements in an inbox.",
+    "Calendar for office deadlines, `wezwania` and office visits.",
+    "Dashboard: active cases, cases waiting for documents, deadlines in the next 14 days, active and overdue `wezwania`.",
+    "Tasks and kanban boards; \"Moja praca\" shows a person's own cases, tasks and `wezwania`."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "teal",
+      "title": "Poniedziałek rano.\nCo w tym tygodniu *ma\u00a0termin*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Przegląd tygodnia to składanie listy z kawałków.",
+      "sub": "Terminy w kalendarzu jednej osoby, wezwania w skrzynce drugiej, statusy w Excelu."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "W Akta CRM terminy i wezwania są na *jednym* dashboardzie.",
+      "sub": "Terminy z najbliższych 14 dni oraz aktywne i zaległe wezwania."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Każdy widzi też swoją część tygodnia.",
+      "sub": "„Moja praca” pokazuje własne sprawy, zadania i wezwania."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

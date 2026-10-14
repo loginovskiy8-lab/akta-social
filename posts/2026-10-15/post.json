@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-15",
+  "rubric": "Thu — Mit czy fakt?",
+  "pillar": "D",
+  "topic": "leaving-the-vendor-with-your-data",
+  "caption": "Przenosisz akta kancelarii do nowego systemu. Czy potem możesz z niego wyjść z danymi?\n\nTo uczciwe pytanie przed każdą zmianą narzędzia. Dane spraw należą do kancelarii, nie do dostawcy.\n\nW Akta CRM właściciel może w każdej chwili wyeksportować wszystko. Odejście nie wymaga zgody dostawcy.\n\nOkres testowy to 30 dni pełnego dostępu, a potem 30 dni tylko do odczytu, na eksport. Bez automatycznej płatności i bez automatycznego przedłużenia.\n\nNa start: import z CSV/Excel z mapowaniem kolumn, podglądem i regułami duplikatów.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "The owner can export everything at any time; leaving does not need the vendor's consent.",
+    "Free trial: 30 days of full access, then 30 days read-only for export. No automatic payment, no automatic renewal.",
+    "Import from CSV/Excel with column mapping, preview and duplicate rules. The team helps import data from Excel or another system before the start."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "eyebrow": "Mit czy fakt?",
+      "title": "Dane w nowym CRM.\nCzy da się z nim\n*odejść*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Mit",
+      "title": "Raz wprowadzone sprawy\nzostają u dostawcy.",
+      "sub": "W Akta CRM właściciel może w każdej chwili wyeksportować wszystko."
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Fakt",
+      "title": "Odejście *nie wymaga*\nzgody dostawcy.",
+      "sub": "Po 30 dniach testów masz jeszcze 30 dni dostępu tylko do odczytu, na eksport."
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Fakt",
+      "title": "Bez automatycznych\npłatności i przedłużeń.",
+      "sub": "Import z CSV/Excel z mapowaniem kolumn, podglądem i regułami duplikatów."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

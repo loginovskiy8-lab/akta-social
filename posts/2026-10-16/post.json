@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-16",
+  "rubric": "Fri — Pracodawca i kancelaria",
+  "pillar": "C",
+  "topic": "employee-data-where-it-goes",
+  "caption": "Dane pracowników wysyłasz do kancelarii. Warto wiedzieć, gdzie potem są i kto je widzi.\n\nTrzy pytania, które HR może zadać kancelarii przy pierwszej rozmowie: gdzie przechowywane są dokumenty, kto w zespole ma do nich dostęp i czy widać, kto co zmienił.\n\nW Akta CRM baza danych działa w regionie UE, a dokumenty leżą w prywatnym magazynie pod jurysdykcją UE.\n\nKażdy w kancelarii widzi to, na co pozwala jego rola. Historia zmian pokazuje, kto co zmienił i kiedy.\n\nUmowa powierzenia, którą kancelaria zawiera z Akta CRM, jest opublikowana na aktacrm.com/dpa.\n\nPrezentację umówisz na aktacrm.com.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#zatrudnianiecudzoziemców #legalizacjazatrudnienia #hr #kancelariaimigracyjna #aktacrm",
+  "claims": [
+    "Data is processed in the EU: the database in an EU region, documents in private storage under EU jurisdiction.",
+    "Roles `owner`, `admin`, `lawyer`, `assistant`; each user sees what their role permits.",
+    "Change log on records: who changed what and when.",
+    "Two-factor authentication is available.",
+    "The data processing agreement (`umowa powierzenia`, DPA) and its annexes are published and can be read before registration (`aktacrm.com/dpa`). The DPA is concluded at registration."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "mint",
+      "eyebrow": "Dla pracodawców",
+      "title": "Wysyłasz kancelarii dane pracowników.\nGdzie one *trafiają*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "mint",
+      "eyebrow": "Zanim wyślesz",
+      "title": "O co warto zapytać kancelarię",
+      "items": [
+        "Gdzie przechowuje dokumenty",
+        "Kto w zespole ma dostęp",
+        "Czy widać, kto co zmienił"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "mint",
+      "title": "W Akta CRM dane zostają *w UE*.",
+      "sub": "Baza danych w regionie UE.\nDokumenty w prywatnym magazynie\npod jurysdykcją UE."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Każdy widzi tyle,\nna ile pozwala jego rola.",
+      "sub": "Historia zmian pokazuje, kto co zmienił i kiedy.\nLogowanie dwuskładnikowe jest dostępne."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Pokaż to\nswojej kancelarii.",
+      "sub": "Prezentację umówisz na aktacrm.com."
+    }
+  ]
+}

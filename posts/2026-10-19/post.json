@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-19",
+  "rubric": "Mon — Problem w kancelarii",
+  "pillar": "A",
+  "topic": "new-colleague-first-week",
+  "caption": "Do kancelarii dołącza nowa osoba. Zanim zajmie się pierwszą sprawą, musi się dowiedzieć, gdzie co leży.\n\nGdy statusy są w Excelu, dokumenty na dysku, a ustalenia w czyjejś skrzynce, wdrożenie zaczyna się od przekazywania linków i wątków.\n\nW Akta CRM zapraszasz nową osobę do wspólnej przestrzeni zespołu. Jej rola – owner, admin, lawyer lub assistant – decyduje, co widzi.\n\nKażda sprawa ma swój etap i listę kroków, a „Moja praca” pokazuje własne sprawy, zadania i wezwania.\n\nInterfejs działa po polsku, angielsku, ukraińsku i rosyjsku – każdy wybiera swój język.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "The status quo it replaces: case status in Excel, documents on a shared drive, arrangements in an inbox.",
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place.",
+    "Inviting colleagues to the workspace.",
+    "Roles `owner`, `admin`, `lawyer`, `assistant`; each user sees what their role permits.",
+    "Case stages that follow the real course of a proceeding; each stage has its own checklist of steps.",
+    "Tasks and kanban boards; \"Moja praca\" shows a person's own cases, tasks and `wezwania`.",
+    "Interface in Polish, English, Ukrainian and Russian, chosen per user."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "teal",
+      "title": "Nowa osoba w zespole.\nOd czego *zaczyna*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Pierwszy tydzień to zbieranie linków i dostępów.",
+      "sub": "Excel ze statusami, folder na dysku, przekazane wątki z cudzej skrzynki."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "W Akta CRM wystarczy *jedno* zaproszenie do zespołu.",
+      "sub": "Rola, np. lawyer albo assistant, decyduje, co nowa osoba widzi."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Każda sprawa pokazuje etap i listę kroków.",
+      "sub": "„Moja praca” zbiera własne sprawy, zadania i wezwania tej osoby."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

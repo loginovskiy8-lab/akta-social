@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-20",
+  "rubric": "Tue — Funkcja w praktyce",
+  "pillar": "A",
+  "topic": "case-funnel-by-stage",
+  "caption": "Ile spraw jest na początku, a ile bliżej końca? Ta odpowiedź nie powinna wymagać liczenia wierszy w arkuszu.\n\nGdy status sprawy jest w Excelu, obraz całej kancelarii trzeba składać ręcznie i zwykle jest już nieaktualny.\n\nW Akta CRM każda sprawa ma swój etap. Kancelaria sama definiuje typy spraw i etapy dla każdego typu.\n\nLejek spraw w raportach pokazuje aktywne sprawy według etapów, w jednym widoku.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "The status quo it replaces: case status in Excel, documents on a shared drive, arrangements in an inbox.",
+    "Case stages that follow the real course of a proceeding; each stage has its own checklist of steps.",
+    "The firm can define its own case types and the stages for each type.",
+    "Reports; the case funnel shows active cases by stage."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "teal",
+      "title": "Ile spraw stoi\nna *którym etapie*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "screen",
+      "theme": "paper",
+      "eyebrow": "W Akta CRM",
+      "title": "Lejek spraw: aktywne sprawy według etapów.",
+      "image": "assets/screens/dashboard-analityka.png#lejek"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Jak to działa",
+      "title": "Lejek bierze etapy prosto ze spraw.",
+      "items": [
+        "Każda sprawa ma swój etap",
+        "Etapy ustawia Twoja kancelaria",
+        "Raport zbiera aktywne sprawy",
+        "Bez liczenia w Excelu"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "Widzisz, na którym etapie sprawy *się gromadzą*.",
+      "sub": "Bez pytania zespołu i bez liczenia wierszy w arkuszu."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

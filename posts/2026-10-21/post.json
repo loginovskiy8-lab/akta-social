@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-21",
+  "rubric": "Wed — Porządek w aktach",
+  "pillar": "B",
+  "topic": "application-package-before-filing",
+  "caption": "Wniosek ma być złożony. Kto ostatni sprawdził, że pakiet jest kompletny?\n\nPrzed złożeniem kancelaria odpowiada sobie na trzy pytania: czy pakiet jest gotowy, kto go zweryfikował i która wersja jest ostateczna.\n\nW Akta CRM gotowy pakiet wniosku ma śledzenie gotowości, generowanie PDF i ręczną weryfikację.\n\nPakiet ma historię wersji, a dziennik zmian pokazuje, kto zmienił co i kiedy.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Ready application packages (`gotowe pakiety wniosku`): readiness tracking, PDF generation, manual verification, version history.",
+    "Change log on records: who changed what and when."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "title": "Wniosek gotowy do złożenia.\nKto to *sprawdził*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Porządek w aktach",
+      "title": "Przed złożeniem kancelaria zna trzy odpowiedzi.",
+      "items": [
+        "Czy pakiet jest kompletny",
+        "Kto go zweryfikował",
+        "Która wersja jest ostateczna"
+      ]
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "W Akta CRM",
+      "title": "Pakiet wniosku\nw jednym miejscu.",
+      "items": [
+        "Śledzenie gotowości pakietu",
+        "Generowanie PDF",
+        "Ręczna weryfikacja",
+        "Historia wersji"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "Weryfikacja nie zależy od *pamięci* jednej osoby.",
+      "sub": "Dziennik zmian pokazuje, kto zmienił co i kiedy.\nCała historia zostaje w aktach sprawy."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

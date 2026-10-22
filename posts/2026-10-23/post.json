@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-23",
+  "rubric": "Fri — Pracodawca i kancelaria",
+  "pillar": "C",
+  "topic": "employer-data-pulled-by-nip",
+  "caption": "Dane Twojej firmy nie muszą trafiać do kancelarii w formie przepisanej ręcznie tabelki.\n\nNa start współpracy wystarczy prosty porządek po stronie firmy: NIP, jedna osoba kontaktowa i informacja, których pracowników dotyczą sprawy.\n\nW Akta CRM kancelaria wpisuje NIP, a dane firmy pobierają się z Białej listy VAT, KRS i CEIDG. Przed zapisaniem zespół widzi podgląd i sprawdza, co trafi do rejestru pracodawców.\n\nMniej przepisywania to mniej literówek w nazwie i adresie firmy.\n\nPrezentację umówisz na aktacrm.com.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#zatrudnianiecudzoziemców #legalizacjazatrudnienia #hr #kancelariaimigracyjna #aktacrm",
+  "claims": [
+    "Employer register: company data pulled by NIP from the `Biała lista VAT`, KRS and CEIDG, with a preview before saving.",
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "mint",
+      "eyebrow": "Dla pracodawców",
+      "title": "Kancelaria prosi o dane firmy.\nCzy trzeba je *przepisywać*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "mint",
+      "eyebrow": "Po stronie firmy",
+      "title": "Co przygotować\nna start współpracy",
+      "items": [
+        "NIP firmy",
+        "Jedna osoba kontaktowa",
+        "Których pracowników dotyczą sprawy"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "mint",
+      "title": "W Akta CRM wystarczy *NIP*.",
+      "sub": "Dane firmy pobierają się\nz Białej listy VAT, KRS i CEIDG."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Najpierw podgląd,\npotem zapis.",
+      "sub": "Zespół kancelarii sprawdza dane,\nzanim trafią do rejestru pracodawców."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Pokaż to\nswojej kancelarii.",
+      "sub": "Prezentację umówisz na aktacrm.com."
+    }
+  ]
+}

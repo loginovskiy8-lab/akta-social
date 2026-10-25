@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-26",
+  "rubric": "Mon — Problem w kancelarii",
+  "pillar": "A",
+  "topic": "status-calls-from-clients",
+  "caption": "Telefon od klienta: „Co z moją sprawą?”. Odpowiedź zależy od tego, kto akurat odebrał.\n\nGdy status jest w Excelu, a ustalenia w czyjejś skrzynce, każdy taki telefon to szukanie i oddzwanianie później.\n\nW Akta CRM każda sprawa ma swój etap i listę kroków dla tego etapu. Kto odbierze, otwiera sprawę i widzi, na czym stoi.\n\nKancelaria może też włączyć klientowi portal. Klient loguje się osobno, widzi tylko swoją sprawę – nigdy notatek wewnętrznych – i może dosłać brakujące pliki.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "The status quo it replaces: case status in Excel, documents on a shared drive, arrangements in an inbox.",
+    "Case stages that follow the real course of a proceeding; each stage has its own checklist of steps.",
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place.",
+    "Client portal: the client logs in separately, sees only their own case and never internal notes, and can send missing files. \"Client\" here is the foreigner whose case it is: the firm turns the portal on per client record."
+  ],
+  "slides": [
+    { "type": "cover", "theme": "teal", "title": "Klient dzwoni:\n„Co z *moją sprawą*?”", "hint": "Przesuń →" },
+    { "type": "statement", "theme": "teal", "title": "Odpowiedź zależy od tego, kto odebrał.", "sub": "Status w Excelu, ustalenia w czyjejś skrzynce. „Oddzwonię, jak sprawdzę.”" },
+    { "type": "statement", "theme": "teal", "title": "W Akta CRM sprawa pokazuje *etap* i listę kroków.", "sub": "Każda osoba w zespole otwiera ją i widzi to samo." },
+    { "type": "statement", "theme": "teal", "title": "Klient może też zajrzeć do portalu.", "sub": "Widzi tylko swoją sprawę, nigdy notatek wewnętrznych. Może dosłać brakujące pliki." },
+    { "type": "cta", "theme": "teal", "title": "Sprawdź,\njak to działa.", "sub": "Link do testów w bio." }
+  ]
+}

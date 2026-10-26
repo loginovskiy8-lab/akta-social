@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-27",
+  "rubric": "Tue — Funkcja w praktyce",
+  "pillar": "A",
+  "topic": "my-work-own-cases-tasks",
+  "caption": "Od czego zaczynasz dzień w kancelarii? Najlepiej nie od przeglądania wszystkich spraw po kolei.\n\nGdy zadania są w skrzynce, a terminy w arkuszu, własną listę na dziś trzeba za każdym razem składać ręcznie.\n\nW Akta CRM widok „Moja praca” pokazuje Twoje sprawy, zadania i wezwania w jednym miejscu.\n\nZadania zespół prowadzi też na tablicach kanban, a terminy urzędowe, wezwania i wizyty w urzędzie są w kalendarzu.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Tasks and kanban boards; \"Moja praca\" shows a person's own cases, tasks and `wezwania`.",
+    "Calendar for office deadlines, `wezwania` and office visits.",
+    "The status quo it replaces: case status in Excel, documents on a shared drive, arrangements in an inbox."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "teal",
+      "title": "Co w kancelarii\nnależy dziś *do Ciebie*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "screen",
+      "theme": "paper",
+      "eyebrow": "W Akta CRM",
+      "title": "„Moja praca”: Twoje sprawy, zadania i wezwania.",
+      "image": "assets/screens/dashboard-analityka.png#moja-praca"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Co tam widzisz",
+      "title": "Jeden widok zamiast przeglądania wszystkich spraw.",
+      "items": [
+        "Sprawy, które prowadzisz",
+        "Twoje zadania",
+        "Twoje wezwania"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "Lista na dziś nie zależy od *pamięci*.\nAni od karteczek na monitorze.",
+      "sub": "Zadania zespołu są też na tablicach kanban."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

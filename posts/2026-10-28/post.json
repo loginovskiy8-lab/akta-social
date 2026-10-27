@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-28",
+  "rubric": "Wed — Porządek w aktach",
+  "pillar": "B",
+  "topic": "closed-case-file-handover",
+  "caption": "Sprawa zamknięta. Za rok ktoś zapyta, co w niej się wydarzyło. Czy akta odpowiedzą bez Ciebie?\n\nPrzy zamknięciu sprawy kancelaria sprawdza, czy z akt da się odtworzyć: co złożono, jaka korespondencja poszła, kto co zmieniał i gdzie leżą dokumenty.\n\nW Akta CRM maile z Gmaila są przypisane do sprawy lub klienta, a każda sprawa ma własną strukturę folderów.\n\nChecklista dokumentów pokazuje, czego brakuje. Dziennik zmian pokazuje, kto zmienił co i kiedy.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Gmail integration: the mailbox is synchronised into the CRM; messages are bound to a case or a client and can be read and answered without leaving the system.",
+    "Folder structure created per case.",
+    "Document catalogue and a document requirement checklist per case type; the case shows what is missing.",
+    "Change log on records: who changed what and when."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "title": "Sprawa zamknięta.\nCzy za rok ktoś ją *odtworzy*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Porządek w aktach",
+      "title": "Zamknięte akta odpowiadają na cztery pytania.",
+      "items": ["Co zostało złożone", "Jaka korespondencja poszła", "Kto co zmieniał", "Gdzie leżą dokumenty"]
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "W Akta CRM",
+      "title": "Cała historia\nw aktach sprawy.",
+      "items": ["Maile przypisane do sprawy", "Foldery założone dla sprawy", "Checklista dokumentów", "Dziennik zmian"]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "Osoba odchodzi z zespołu.\nHistoria sprawy *zostaje*.",
+      "sub": "Korespondencja i zmiany są zapisane przy sprawie, nie w czyjejś skrzynce."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

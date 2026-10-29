@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-30",
+  "rubric": "Fri — Pracodawca i kancelaria",
+  "pillar": "C",
+  "topic": "several-employees-one-case-each",
+  "caption": "Kilku pracowników prowadzonych przez jedną kancelarię to kilka osobnych spraw, a nie jedna wspólna teczka.\n\nPo stronie firmy pomaga prosty porządek: lista osób, jedna osoba kontaktowa w HR i ustalona kolejność, od której sprawy zacząć.\n\nW Akta CRM każdy pracownik ma w kancelarii własną sprawę: własny etap, własną listę kroków i listę dokumentów. Sprawa pokazuje, czego jeszcze brakuje.\n\nDzięki temu pytanie HR o konkretną osobę dostaje odpowiedź o jej sprawie, a nie ogólną o całej grupie.\n\nPrezentację umówisz na aktacrm.com.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#zatrudnianiecudzoziemców #legalizacjazatrudnienia #hr #kancelariaimigracyjna #aktacrm",
+  "claims": [
+    "Case stages that follow the real course of a proceeding; each stage has its own checklist of steps.",
+    "Document catalogue and a document requirement checklist per case type; the case shows what is missing.",
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "eyebrow": "Dla pracodawców",
+      "title": "Pięciu pracowników w kancelarii.\nCzy to *jedna sprawa*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Po stronie firmy",
+      "title": "Co uporządkować,\nzanim zaczniecie",
+      "items": [
+        "Lista pracowników",
+        "Jedna osoba kontaktowa w HR",
+        "Kolejność spraw do rozpoczęcia"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "W Akta CRM każdy pracownik\nto *osobna sprawa*.",
+      "sub": "Własny etap, własna lista kroków\ni lista dokumentów."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Sprawa pokazuje,\nczego jeszcze brakuje.",
+      "sub": "Kancelaria odpowiada o każdej osobie osobno,\nnie o całej grupie naraz."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Pokaż to\nswojej kancelarii.",
+      "sub": "Prezentację umówisz na aktacrm.com."
+    }
+  ]
+}

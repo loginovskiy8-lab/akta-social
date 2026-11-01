@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-02",
+  "rubric": "Mon — Problem w kancelarii",
+  "pillar": "A",
+  "topic": "case-arrangements-lost-in-inbox",
+  "caption": "Klient coś potwierdził mailem. Tylko kto ma tę wiadomość i w którym folderze?\n\nGdy ustalenia zostają w skrzynce jednej osoby, reszta zespołu wie tyle, ile ktoś przekaże dalej. Przy urlopie albo zmianie prowadzącego zaczyna się szukanie wątków.\n\nW Akta CRM skrzynka Gmail jest synchronizowana z systemem. Wiadomość przypinasz do sprawy albo do klienta.\n\nKorespondencja jest w tej samej wspólnej przestrzeni co sprawy, dokumenty i terminy. Odczytasz ją i odpowiesz bez wychodzenia z systemu.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "The status quo it replaces: case status in Excel, documents on a shared drive, arrangements in an inbox.",
+    "Gmail integration: the mailbox is synchronised into the CRM; messages are bound to a case or a client and can be read and answered without leaving the system.",
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place."
+  ],
+  "slides": [
+    { "type": "cover", "theme": "teal", "title": "Gdzie jest mail,\nw którym klient *to potwierdził*?", "hint": "Przesuń →" },
+    { "type": "statement", "theme": "teal", "title": "Ustalenia zostają\nw jednej skrzynce.", "sub": "Reszta zespołu wie tyle, ile ktoś przekaże dalej.\nPrzy urlopie zaczyna się szukanie wątków." },
+    { "type": "statement", "theme": "teal", "title": "W Akta CRM skrzynka Gmail jest *zsynchronizowana* z systemem.", "sub": "Wiadomość przypinasz do sprawy albo do klienta." },
+    { "type": "statement", "theme": "teal", "title": "Korespondencja jest tam, gdzie sprawa i dokumenty.", "sub": "Odczytasz ją i odpowiesz bez wychodzenia z systemu." },
+    { "type": "cta", "theme": "teal", "title": "Sprawdź,\njak to działa.", "sub": "Link do testów w bio." }
+  ]
+}

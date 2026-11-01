@@ -1,6 +1,6 @@
-# Performance — 2026-10-25
+# Performance — 2026-11-01
 Status: warm-up
-Window: 2026-08-27 … 2026-10-22
-Published Instagram posts: 12
-Matched to pipeline: 9
+Window: 2026-09-03 … 2026-10-29
+Published Instagram posts: 11
+Matched to pipeline: 11
 With metrics (reach ≥ 30): 0 of 15 needed

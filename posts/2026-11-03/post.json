@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-03",
+  "rubric": "Tue — Funkcja w praktyce",
+  "pillar": "A",
+  "topic": "deadline-load-next-two-weeks",
+  "caption": "Ciężki tydzień w kancelarii zwykle widać dopiero wtedy, gdy już trwa. A można go zobaczyć wcześniej.\n\nGdy terminy są rozproszone między kalendarze i skrzynki, nikt nie widzi, że w jednym tygodniu zbiera się ich najwięcej.\n\nW Akta CRM dashboard pokazuje terminy z najbliższych 14 dni oraz aktywne i zaległe wezwania.\n\nTerminy urzędowe, wezwania i wizyty w urzędzie są w kalendarzu, więc urlop i podział pracy ustalasz, widząc obciążenie z wyprzedzeniem.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Dashboard: active cases, cases waiting for documents, deadlines in the next 14 days, active and overdue `wezwania`.",
+    "Calendar for office deadlines, `wezwania` and office visits."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "teal",
+      "title": "Który z najbliższych\ndwóch tygodni będzie *najcięższy*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "screen",
+      "theme": "paper",
+      "eyebrow": "W Akta CRM",
+      "title": "Terminy z najbliższych 14\u00a0dni\nna jednym wykresie.",
+      "image": "assets/screens/dashboard-analityka.png#terminy"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Co z tym robisz",
+      "title": "Plan zespołu według terminów, nie przeczucia.",
+      "items": [
+        "Urlop poza najcięższym tygodniem",
+        "Pracę dzielisz z wyprzedzeniem",
+        "Zaległe wezwania widać od razu"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "Ciężki tydzień widać, *zanim* się zacznie.\nNie w piątek po fakcie.",
+      "sub": "Terminy, wezwania i wizyty w urzędzie są też w kalendarzu."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

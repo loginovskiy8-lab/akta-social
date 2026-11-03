@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-04",
+  "rubric": "Wed — Porządek w aktach",
+  "pillar": "B",
+  "topic": "collecting-documents-from-the-client",
+  "caption": "Klient przysyła skan paszportu. Tydzień później nikt nie wie, w której skrzynce go szukać.\n\nZbieranie dokumentów to etap, na którym akta najłatwiej się rozjeżdżają: część plików w mailu, część na dysku, lista braków w czyjejś głowie.\n\nW Akta CRM każda sprawa ma checklistę dokumentów i pokazuje, czego brakuje. Pliki trafiają do folderów założonych dla tej sprawy.\n\nKlient może wysłać brakujące pliki przez portal. Widzi tylko swoją sprawę i nigdy notatek wewnętrznych.\n\nMaile z Gmaila są przypisane do sprawy lub klienta, więc załącznik nie zostaje w jednej skrzynce.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Document catalogue and a document requirement checklist per case type; the case shows what is missing.",
+    "Folder structure created per case.",
+    "Client portal: the client logs in separately, sees only their own case and never internal notes, and can send missing files.",
+    "Gmail integration: the mailbox is synchronised into the CRM; messages are bound to a case or a client and can be read and answered without leaving the system."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "title": "Klient przysłał skan.\nGdzie on teraz *leży*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Porządek w aktach",
+      "title": "Przy zbieraniu dokumentów kancelaria trzyma się trzech zasad.",
+      "items": [
+        "Jedna lista braków na sprawę",
+        "Jedno miejsce na pliki",
+        "Jedna droga od klienta"
+      ]
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "W Akta CRM",
+      "title": "Dokumenty\nprzy sprawie.",
+      "items": [
+        "Checklista dokumentów sprawy",
+        "Widać, czego brakuje",
+        "Foldery założone dla sprawy",
+        "Maile przypisane do sprawy"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "Brakujący plik klient wysyła *przez portal*.",
+      "sub": "Widzi tylko swoją sprawę.\nPlik trafia do akt, nie do czyjejś skrzynki."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-05",
+  "rubric": "Thu — Mit czy fakt?",
+  "pillar": "D",
+  "topic": "who-sees-what-roles-and-portal",
+  "caption": "Wszystkie sprawy kancelarii w jednym systemie. Czy to znaczy, że każdy widzi wszystko?\n\nTo częsta obawa przed przeniesieniem akt z Excela i dysku do jednej bazy.\n\nW Akta CRM każdy użytkownik ma rolę: owner, admin, lawyer albo assistant. Widzi to, na co pozwala jego rola.\n\nKlient loguje się do portalu osobno. Widzi tylko swoją sprawę i nigdy wewnętrznych notatek.\n\nPrzy rekordach zostaje historia zmian: kto, co i kiedy zmienił.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Roles `owner`, `admin`, `lawyer`, `assistant`; each user sees what their role permits.",
+    "Client portal: the client logs in separately, sees only their own case and never internal notes, and can send missing files. \"Client\" here is the foreigner whose case it is: the firm turns the portal on per client record. **Employers have no portal access** — never tell an employer or HR reader that they can log in or upload through the portal; at most, their employee can.",
+    "Change log on records: who changed what and when.",
+    "The status quo it replaces: case status in Excel, documents on a shared drive, arrangements in an inbox."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "eyebrow": "Mit czy fakt?",
+      "title": "Wspólny CRM w kancelarii.\nKażdy widzi\n*wszystkie sprawy*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Mit",
+      "title": "Jedna baza\nto jeden poziom dostępu\ndla całego zespołu.",
+      "sub": "W Akta CRM dostęp zależy od roli użytkownika."
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Fakt",
+      "title": "Owner, admin, lawyer, assistant.\nKażdy widzi to,\nna co pozwala *jego rola*.",
+      "sub": "Przy rekordach zostaje historia zmian:\nkto, co i kiedy zmienił."
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Fakt",
+      "title": "Klient w portalu\nwidzi tylko swoją sprawę.",
+      "sub": "Loguje się osobno i nigdy nie widzi wewnętrznych notatek kancelarii."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

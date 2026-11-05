@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-06",
+  "rubric": "Fri — Pracodawca i kancelaria",
+  "pillar": "C",
+  "topic": "hr-asks-firm-about-case-stage",
+  "caption": "Pytanie HR do kancelarii o pracownika jest prostsze, gdy obie strony wiedzą, o co dokładnie pytacie.\n\nPo stronie firmy pomaga kilka ustaleń na start: kto w HR pyta o sprawy, jak oznaczacie pracowników, którym kanałem się kontaktujecie i jak często chcecie dostawać informację.\n\nW Akta CRM każda sprawa ma etap, a każdy etap własną listę kroków. Kancelaria widzi, gdzie jest sprawa i co jeszcze zostało do zrobienia.\n\nZespół kancelarii pracuje we wspólnej przestrzeni, więc odpowiedź nie zależy od tego, kto akurat odebrał telefon.\n\nPrezentację umówisz na aktacrm.com.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#zatrudnianiecudzoziemców #legalizacjazatrudnienia #hr #kancelariaimigracyjna #aktacrm",
+  "claims": [
+    "Case stages that follow the real course of a proceeding; each stage has its own checklist of steps.",
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "mint",
+      "eyebrow": "Dla pracodawców",
+      "title": "Pytasz kancelarię o pracownika.\nCo chcesz *wiedzieć*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "mint",
+      "eyebrow": "Po stronie firmy",
+      "title": "Co ustalić\nz kancelarią na start",
+      "items": [
+        "Kto w HR pyta o sprawy",
+        "Jak oznaczacie pracowników",
+        "Kanał kontaktu z kancelarią",
+        "Jak często chcecie informację"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "mint",
+      "title": "W Akta CRM każda sprawa\nma swój *etap*.",
+      "sub": "Kancelaria widzi, gdzie jest sprawa\ni co jeszcze zostało do zrobienia."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Cały zespół kancelarii\nwidzi tę samą sprawę.",
+      "sub": "Odpowiedź nie zależy od tego,\nkto akurat odebrał telefon."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Pokaż to\nswojej kancelarii.",
+      "sub": "Prezentację umówisz na aktacrm.com."
+    }
+  ]
+}

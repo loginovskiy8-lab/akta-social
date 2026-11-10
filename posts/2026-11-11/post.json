@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-11",
+  "rubric": "Wed — Porządek w aktach",
+  "pillar": "B",
+  "topic": "office-visit-in-the-firm-calendar",
+  "caption": "Wizyta klienta w urzędzie zapisana w jednym telefonie. Co, jeśli ta osoba ma akurat wolne?\n\nWizyta w urzędzie to etap, który łatwo zgubić: termin przychodzi mailem, ktoś wpisuje go do prywatnego kalendarza, a reszta zespołu dowiaduje się od klienta.\n\nW Akta CRM kalendarz kancelarii obejmuje terminy, wezwania i wizyty w urzędzie, więc zespół widzi je w jednym miejscu.\n\nPrzygotowanie do wizyty to zadanie z konkretną osobą. W „Mojej pracy” każdy widzi swoje sprawy, zadania i wezwania.\n\nChecklista dokumentów sprawy pokazuje, czego jeszcze brakuje.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Calendar for office deadlines, `wezwania` and office visits.",
+    "Tasks and kanban boards; \"Moja praca\" shows a person's own cases, tasks and `wezwania`.",
+    "Document catalogue and a document requirement checklist per case type; the case shows what is missing."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "title": "Klient ma wizytę w urzędzie.\nKto o niej *pamięta*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Porządek w aktach",
+      "title": "Przed wizytą kancelaria ustala cztery rzeczy.",
+      "items": [
+        "Termin we wspólnym kalendarzu",
+        "Osobę odpowiedzialną za przygotowanie",
+        "Czego jeszcze brakuje",
+        "Notatkę po wizycie"
+      ]
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "W Akta CRM",
+      "title": "Wizyta\nw kalendarzu kancelarii.",
+      "items": [
+        "Terminy, wezwania i wizyty",
+        "Zadanie z konkretną osobą",
+        "Swoje zadania w „Mojej pracy”",
+        "Checklista brakujących dokumentów"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "Termin wizyty\nw kalendarzu zespołu,\nnie w *czyimś telefonie*.",
+      "sub": "Ktoś ma wolne.\nZespół i tak widzi termin."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-13",
+  "rubric": "Fri — Pracodawca i kancelaria",
+  "pillar": "C",
+  "topic": "hr-contact-person-changes",
+  "caption": "Gdy w HR zmienia się osoba prowadząca sprawy pracowników, kancelaria nie powinna tracić wątku.\n\nPo stronie firmy pomaga krótkie przekazanie: kto jest nową osobą kontaktową, których pracowników dotyczą sprawy, co zostało ustalone z kancelarią i jakie pytania są otwarte.\n\nW Akta CRM dane pracodawców, sprawy i korespondencja są w jednej przestrzeni zespołu kancelarii. Historia zmian pokazuje, kto co zmienił i kiedy.\n\nDzięki temu nowa osoba w HR dostaje od kancelarii odpowiedź z akt, a nie z czyjejś pamięci.\n\nPrezentację umówisz na aktacrm.com.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#zatrudnianiecudzoziemców #legalizacjazatrudnienia #hr #kancelariaimigracyjna #aktacrm",
+  "claims": [
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place.",
+    "Change log on records: who changed what and when."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "eyebrow": "Dla pracodawców",
+      "title": "Nowa osoba w HR przejmuje sprawy.\nCo wie o nich *kancelaria*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "paper",
+      "eyebrow": "Po stronie firmy",
+      "title": "Co przekazać\nprzy zmianie w HR",
+      "items": [
+        "Nowa osoba kontaktowa",
+        "Lista pracowników w toku",
+        "Ustalenia z kancelarią",
+        "Otwarte pytania"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "paper",
+      "title": "W Akta CRM firma, sprawy\ni korespondencja\nsą *w jednym miejscu*.",
+      "sub": "Cały zespół kancelarii pracuje\nw jednej wspólnej przestrzeni."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Każda zmiana w aktach\nma autora i datę.",
+      "sub": "Kancelaria odpowiada z historii sprawy,\nnawet gdy po Waszej stronie zmienił się kontakt."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Pokaż to\nswojej kancelarii.",
+      "sub": "Prezentację umówisz na aktacrm.com."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-17",
+  "rubric": "Tue — Funkcja w praktyce",
+  "pillar": "A",
+  "topic": "tasks-instead-of-sticky-notes",
+  "caption": "Kto dziś dzwoni do klienta? Jeśli odpowiedź jest na karteczce, łatwo ją zgubić.\n\nUstalenia z porannej odprawy rzadko giną od razu. Giną po kilku dniach, w czyimś notesie albo w wątku maili.\n\nW Akta CRM to, co ma zostać zrobione, zapisujesz jako zadanie. Zespół pracuje w jednej wspólnej przestrzeni, obok spraw, terminów i korespondencji.\n\nWidok „Moja praca” pokazuje każdemu jego sprawy, zadania i wezwania. Kto woli pracę na tablicy, ma tablice kanban.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #kancelariaprawna #aktacrm",
+  "claims": [
+    "Tasks and kanban boards; \"Moja praca\" shows a person's own cases, tasks and `wezwania`.",
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines,"
+  ],
+  "slides": [
+    { "type": "cover", "theme": "teal", "title": "Kto w kancelarii\nma dziś *zadzwonić*\ndo klienta?", "hint": "Przesuń →" },
+    { "type": "screen", "theme": "paper", "eyebrow": "W Akta CRM", "title": "Zadania każdej osoby\nw widoku „Moja praca”.", "image": "assets/screens/dashboard-analityka.png#moja-praca" },
+    { "type": "list", "theme": "paper", "eyebrow": "Zamiast karteczek", "title": "Zadania zespołu\nw jednym miejscu.", "items": ["Zadanie zamiast notatki w notesie", "Tablice kanban", "Własne zadania w „Moja praca”", "Obok spraw i wezwań"] },
+    { "type": "statement", "theme": "paper", "title": "Ustalenie z odprawy\nnie zostaje *w notesie*.", "sub": "Zapisujesz je jako zadanie w systemie.\nKażdy widzi swoją część pracy." },
+    { "type": "cta", "theme": "teal", "title": "Sprawdź,\njak to działa.", "sub": "Link do testów w bio." }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-19",
+  "rubric": "Thu — Mit czy fakt?",
+  "pillar": "D",
+  "topic": "trial-ends-without-automatic-payment",
+  "caption": "Czy po bezpłatnych testach system sam pobierze opłatę? W Akta CRM nie.\n\nCzęsta obawa przed testami nowego systemu: po okresie próbnym przychodzi płatność, której nikt nie zlecał.\n\nTesty w Akta CRM to 30 dni pełnego dostępu. Bez automatycznej płatności i bez automatycznego przedłużenia.\n\nPotem przestrzeń przez kolejne 30 dni działa tylko do odczytu, żeby można było wyeksportować dane.\n\nWłaściciel może wyeksportować wszystko w dowolnym momencie, a odejście nie wymaga zgody dostawcy.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #kancelariaprawna #aktacrm",
+  "claims": [
+    "Free trial: 30 days of full access, then 30 days read-only for export. No automatic payment, no automatic renewal.",
+    "The owner can export everything at any time; leaving does not need the vendor's consent."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "eyebrow": "Mit czy fakt?",
+      "title": "Po bezpłatnych\ntestach system\nsam pobierze *opłatę*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Mit",
+      "title": "Okres próbny kończy się\nautomatyczną płatnością\ni przedłużeniem.",
+      "sub": "W Akta CRM nie ma automatycznej płatności ani automatycznego przedłużenia."
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Fakt",
+      "title": "Przez 30 dni testujesz\nz *pełnym* dostępem.",
+      "sub": "Cały system, bez ograniczeń funkcji, przez cały okres testów."
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Fakt",
+      "title": "Potem kolejne 30 dni\ntylko do odczytu.",
+      "sub": "W tym czasie eksportujesz swoje dane. Właściciel może to zrobić w każdej chwili."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

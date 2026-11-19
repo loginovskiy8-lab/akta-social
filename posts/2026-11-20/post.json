@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-20",
+  "rubric": "Fri — Pracodawca i kancelaria",
+  "pillar": "C",
+  "topic": "employer-asks-about-all-employees",
+  "caption": "Pytanie o wszystkich pracowników naraz to dla kancelarii inne pytanie niż o jedną osobę.\n\nPo stronie firmy pomaga aktualna lista: kto jest w toku, kto odszedł, kto dołączył i jakie zmiany planujecie. Najlepiej, gdy pyta jedna osoba z HR.\n\nW Akta CRM kancelaria prowadzi rejestr pracodawców obok spraw, dokumentów i korespondencji, w jednej przestrzeni zespołu.\n\nJeśli kancelaria włączy asystenta AI, na karcie pracodawcy jest podsumowanie AI. PESEL, numery dokumentów i adresy są usuwane, zanim cokolwiek trafi do modelu.\n\nPrezentację umówisz na aktacrm.com.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#zatrudnianiecudzoziemców #legalizacjazatrudnienia #hr #kancelariaimigracyjna #aktacrm",
+  "claims": [
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place.",
+    "AI assistant answering questions about cases, clients and statistics, plus AI summaries on case, client and employer cards.",
+    "Off by default; the owner or an admin turns it on for the whole firm.",
+    "PESEL, document numbers, addresses, free-text notes and health or criminal-record data are stripped before anything reaches the model. Processing in the EU; the model keeps neither conversations nor summaries."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "mint",
+      "eyebrow": "Dla pracodawców",
+      "title": "Pytasz o wszystkich pracowników naraz.\nSkąd kancelaria ma *pełny obraz*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "mint",
+      "eyebrow": "Po stronie firmy",
+      "title": "Co mieć gotowe\nprzed takim pytaniem",
+      "items": [
+        "Aktualna lista pracowników",
+        "Kto odszedł, kto dołączył",
+        "Planowane zmiany",
+        "Jedna osoba pytająca z HR"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "mint",
+      "title": "Twoja firma ma\nw Akta CRM\nwłasną *kartę*.",
+      "sub": "Obok spraw, dokumentów i korespondencji,\nw jednej przestrzeni zespołu kancelarii."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Podsumowanie AI\nna karcie pracodawcy.",
+      "sub": "Gdy kancelaria włączy asystenta AI.\nPESEL i numery dokumentów\nnie trafiają do modelu."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Pokaż to\nswojej kancelarii.",
+      "sub": "Prezentację umówisz na aktacrm.com."
+    }
+  ]
+}

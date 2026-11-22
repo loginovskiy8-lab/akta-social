@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-23",
+  "rubric": "Mon — Problem w kancelarii",
+  "pillar": "A",
+  "topic": "who-changed-the-case-data",
+  "caption": "Dane w sprawie są inne niż wczoraj. Kto je poprawił i dlaczego?\n\nW arkuszu widać tylko ostatnią wersję. Co było wpisane wcześniej i kto to zmienił, ustala się w rozmowie, często wtedy, gdy autor zmiany jest już na spotkaniu.\n\nW Akta CRM rekordy mają historię zmian: widać, kto co zmienił i kiedy.\n\nZespół pracuje w jednej wspólnej przestrzeni: klienci, sprawy, dokumenty, zadania i terminy są w jednym miejscu, a nie w kilku plikach.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Change log on records: who changed what and when.",
+    "Staff of the firm work in one shared workspace: clients, cases, documents, tasks, deadlines, correspondence, employers and reports in one place.",
+    "The status quo it replaces: case status in Excel, documents on a shared drive, arrangements in an inbox."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "teal",
+      "title": "Ktoś poprawił dane w sprawie.\nKto i *kiedy*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "W arkuszu widać\ntylko ostatnią wersję.",
+      "sub": "Poprzedni wpis i jego autora\nustala się w rozmowie na korytarzu."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "W Akta CRM rekord ma *historię zmian*.",
+      "sub": "Widać, kto co zmienił i kiedy."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Cały zespół pracuje\nw jednej przestrzeni.",
+      "sub": "Klienci, sprawy, dokumenty, zadania i terminy\nw jednym miejscu, nie w kilku plikach."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

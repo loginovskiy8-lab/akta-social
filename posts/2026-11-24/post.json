@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-24",
+  "rubric": "Tue — Funkcja w praktyce",
+  "pillar": "A",
+  "topic": "overdue-wezwania-on-dashboard",
+  "caption": "Ile wezwań w kancelarii jest dziś po terminie? Ta odpowiedź nie powinna wymagać przeglądania skrzynek.\n\nWezwanie wpisane do sprawy dostaje termin w kalendarzu kancelarii, obok terminów urzędowych i wizyt w urzędzie.\n\nPulpit Akta CRM zbiera wezwania ze wszystkich spraw: osobno aktywne, osobno przeterminowane. Obok widać terminy z najbliższych 14 dni.\n\nKażdy w zespole ma też widok „Moja praca” ze swoimi sprawami, zadaniami i wezwaniami.\n\nLink do bezpłatnych testów w bio.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#kancelariaimigracyjna #kancelaria #prawoimigracyjne #aktacrm",
+  "claims": [
+    "Calendar for office deadlines, `wezwania` and office visits.",
+    "Dashboard: active cases, cases waiting for documents, deadlines in the next 14 days, active and overdue `wezwania`.",
+    "Tasks and kanban boards; \"Moja praca\" shows a person's own cases, tasks and `wezwania`."
+  ],
+  "slides": [
+    { "type": "cover", "theme": "teal", "title": "Które wezwanie\njest już *po terminie*?", "hint": "Przesuń →" },
+    { "type": "screen", "theme": "paper", "eyebrow": "W Akta CRM", "title": "Aktywne wezwania\ni najbliższe terminy na pulpicie.", "image": "assets/screens/dashboard.png#wezwania" },
+    { "type": "list", "theme": "paper", "eyebrow": "Na pulpicie", "title": "Wezwania ze wszystkich spraw\nw jednym widoku.", "items": ["Wezwania aktywne", "Wezwania przeterminowane", "Terminy z najbliższych 14 dni", "Sprawy czekające na dokumenty"] },
+    { "type": "statement", "theme": "paper", "title": "Termin wezwania\nnie zostaje\n*w jednej skrzynce*.", "sub": "Trafia do kalendarza kancelarii.\nKażdy widzi swoje wezwania w „Moja praca”." },
+    { "type": "cta", "theme": "teal", "title": "Sprawdź,\njak to działa.", "sub": "Link do testów w bio." }
+  ]
+}

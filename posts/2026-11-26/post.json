@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-26",
+  "rubric": "Thu — Mit czy fakt?",
+  "pillar": "D",
+  "topic": "where-client-data-is-stored",
+  "caption": "Dane klientów w systemie w chmurze. Gdzie one właściwie są?\n\nTo jedno z pierwszych pytań kancelarii przed zmianą systemu: czy akta cudzoziemców nie trafią na serwery poza Unią.\n\nW Akta CRM dane są przetwarzane w UE. Baza danych działa w regionie UE, a dokumenty trafiają do prywatnego magazynu pod jurysdykcją UE.\n\nDo logowania możesz włączyć uwierzytelnianie dwuskładnikowe.\n\nUmowę powierzenia i jej załączniki przeczytasz jeszcze przed rejestracją: aktacrm.com/dpa.\n\nLink do bezpłatnych testów w bio.\n\n#kancelariaimigracyjna #kancelaria #kancelariaprawna #aktacrm",
+  "claims": [
+    "Data is processed in the EU: the database in an EU region, documents in private storage under EU jurisdiction.",
+    "Two-factor authentication is available.",
+    "The data processing agreement (`umowa powierzenia`, DPA) and its annexes are published and can be read before registration (`aktacrm.com/dpa`). The DPA is concluded at registration."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "paper",
+      "eyebrow": "Mit czy fakt?",
+      "title": "Dane klientów w CRM\nleżą gdzieś\n*poza Unią*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Mit",
+      "title": "System w chmurze\nto akta na serwerach\nnie wiadomo gdzie.",
+      "sub": "W Akta CRM dane są przetwarzane w UE."
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Fakt",
+      "title": "Baza danych działa\nw regionie *UE*.",
+      "sub": "Dokumenty trafiają do prywatnego magazynu pod jurysdykcją UE."
+    },
+    {
+      "type": "tag",
+      "theme": "paper",
+      "tag": "Fakt",
+      "title": "Logowanie zabezpieczysz\ndrugim składnikiem.",
+      "sub": "Uwierzytelnianie dwuskładnikowe jest dostępne. Umowę powierzenia przeczytasz przed rejestracją."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Sprawdź,\njak to działa.",
+      "sub": "Link do testów w bio."
+    }
+  ]
+}

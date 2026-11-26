@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-27",
+  "rubric": "Fri — Pracodawca i kancelaria",
+  "pillar": "C",
+  "topic": "planned-hire-tell-the-firm-early",
+  "caption": "Planujesz zatrudnić cudzoziemca. Im wcześniej wie o tym kancelaria, tym spokojniej pracują obie strony.\n\nPo stronie firmy pomaga krótka informacja na start: planowana data rozpoczęcia pracy, stanowisko i miejsce pracy, rodzaj umowy oraz kontakt do pracownika.\n\nW Akta CRM kancelaria ma kalendarz terminów urzędowych, wezwań i wizyt w urzędzie. Każda sprawa ma etap i własną listę kroków, więc widać, co zrobione, a co jeszcze przed zespołem.\n\nDzięki temu pytasz kancelarię o konkretny krok, a nie o to, czy sprawa w ogóle ruszyła.\n\nPrezentację umówisz na aktacrm.com.\n\nMateriał informacyjny dla kancelarii i pracodawców, nie porada prawna.\n\n#zatrudnianiecudzoziemców #legalizacjazatrudnienia #hr #kancelariaimigracyjna #aktacrm",
+  "claims": [
+    "Calendar for office deadlines, `wezwania` and office visits.",
+    "Case stages that follow the real course of a proceeding; each stage has its own checklist of steps."
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "mint",
+      "eyebrow": "Dla pracodawców",
+      "title": "Nowa osoba zaczyna u Was pracę.\nKiedy dowie się\no tym *kancelaria*?",
+      "hint": "Przesuń →"
+    },
+    {
+      "type": "list",
+      "theme": "mint",
+      "eyebrow": "Po stronie firmy",
+      "title": "Co przekazać\nkancelarii na start",
+      "items": [
+        "Planowana data rozpoczęcia",
+        "Stanowisko i miejsce pracy",
+        "Rodzaj umowy",
+        "Kontakt do pracownika"
+      ]
+    },
+    {
+      "type": "statement",
+      "theme": "mint",
+      "title": "W Akta CRM terminy\nsą w *kalendarzu*\ncałej kancelarii.",
+      "sub": "Terminy urzędowe, wezwania i wizyty\nzespół widzi w jednym miejscu."
+    },
+    {
+      "type": "statement",
+      "theme": "teal",
+      "title": "Każda sprawa ma etap\ni własną listę kroków.",
+      "sub": "Pytasz kancelarię o konkretny krok,\na nie o to, czy sprawa ruszyła."
+    },
+    {
+      "type": "cta",
+      "theme": "teal",
+      "title": "Pokaż to\nswojej kancelarii.",
+      "sub": "Prezentację umówisz na aktacrm.com."
+    }
+  ]
+}
